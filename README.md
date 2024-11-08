@@ -65,8 +65,7 @@ We designed six primary screens to capture the essential user interactions on Ch
 - **Interactive Elements**: Responsive buttons and input fields to simulate real user interactions.
 
 ## How to Access the Prototypes
-- **Lo-Fi Prototype**: [Link to Lo-Fi Prototype](#)
-- **Hi-Fi Prototype**: [Link to Hi-Fi Prototype](#)
+- **Prototype**: [Link to Lo-Fi & Hi-Fi Prototypes](https://www.figma.com/design/gN6DnkPKDVkXKlvntF77aZ/Charify?node-id=0-1&t=nUROK76sOTpCGiCa-1)
 
 ## Future Plans
 - **User Testing**: Collect feedback from users to identify areas for improvement.
