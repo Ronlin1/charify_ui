@@ -139,6 +139,3 @@ We designed six primary screens to capture the essential user interactions on Ch
 ## Conclusion
 This Figma prototype demonstrates the initial design concept for Charify, laying the foundation for future development and user testing. We hope this project inspires further contributions and insights as we move towards building a robust and impactful crowdfunding platform.
 
----
-
-Feel free to customize any sections or add specific Figma links to match your needs!
