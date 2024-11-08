@@ -41,7 +41,7 @@ We designed six primary screens to capture the essential user interactions on Ch
 </div>
 
 <div align="center">
-    <img src="4.png" alt="Flash Screen" height="300">
+    <img src="4.png" alt="Flash Screen" >
 </div>
 
 ### 2. High-Fidelity (Hi-Fi) Prototypes
@@ -50,11 +50,13 @@ We designed six primary screens to capture the essential user interactions on Ch
 - **Outcome**: A realistic representation of the final product, showcasing the full user experience with visually appealing elements and micro-interactions.
 
 <div align="center">
-    <img src="1.png" alt="Flash Screen" height="300">
+    <img src="1.png" alt="Flash Screen" >
 </div>
 
+---
+
 <div align="center">
-    <img src="2.png" alt="Flash Screen" height="300">
+    <img src="2.png" alt="Flash Screen" >
 </div>
 
 ## Key Features Demonstrated
