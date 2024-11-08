@@ -19,7 +19,7 @@ Crowdfunding application UI/UX
 The Charify Crowdfunding Mobile App, developed by Group 26, addresses challenges faced by charitable organizations and individuals in Uganda. The app aims to provide a transformative digital platform that simplifies the process of receiving donations, creating impactful campaigns, and showcasing charitable endeavors. Charify integrates with major mobile network operators' APIs for seamless mobile money donations, utilizes Google Maps integration for location visibility, and focuses on user accessibility and localization.
 
 <div align="center">
-  <img src="charify_mobile/assets/icons/signup.svg" alt="Charify Screen">
+  <img src="https://github.com/Charify-Uganda/Charify/blob/main/charify_mobile/assets/icons/signup.svg" alt="Charify Screen">
 </div>
 ---
 
