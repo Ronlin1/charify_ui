@@ -37,7 +37,7 @@ We designed six primary screens to capture the essential user interactions on Ch
 - **Outcome**: Quick visualization of how screens and interactions are organized, allowing for early-stage feedback and iterative changes.
 
 <div align="center">
-    <img src="3.png" alt="Flash Screen" height="300">
+    <img src="3.png" alt="Flash Screen" >
 </div>
 
 <div align="center">
